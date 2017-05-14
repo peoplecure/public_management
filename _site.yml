@@ -1,8 +1,33 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Jim H. Ong"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Public Health"
+      menu:
+        - text: "NIH Neuroimaging"
+          href: DICOM_learning.html
+    - text: "Public Safety"
+      menu:
+        - text: "Fire - San Francisco"
+          href: fire_sf.html
+    - text: "Social Services"
+      menu:
+        - text: "SNAP (Food Stamp)"
+          href: SNAP_map.html
+    - text: "Cool Maps"
+      menu: 
+        - text: "Team Hope"
+          href: interactive_map.html
+        - text: "Intro to Economics"
+          href: world_sample.html
+    - text: "Author"
       href: about.html
+
+output:
+  html_document: 
+    theme: cosmo
+    css: css/style.css
+    highlight: textmate
+  
