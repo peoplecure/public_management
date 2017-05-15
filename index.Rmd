@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 <h2> 
 <br><br>
 <p style="text-align: center;">
