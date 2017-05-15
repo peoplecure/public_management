@@ -1,8 +1,6 @@
 <h2> 
 <br><br>
-<p style="text-align: center;">
-Welcome to Jim's Policy Blog
-</p>
+<p style="text-align: center;">Welcome to Jim's Policy Blog</p>
 
 <h5>
 <p style="text-align: center;">
